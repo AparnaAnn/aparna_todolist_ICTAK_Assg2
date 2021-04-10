@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+
+
+  body{
+      background-size: cover;
+  }
+form{
+    border: 2px solid black;
+    padding: 15px;
+    background-color: white;
+    color: black;
+    margin-top: 150px;
+}
+
+#emailHelp{
+    color: darkgray;
+}
+
+.myMargin{
+    margin: 30px;
+    margin-left: 50px;
+    
+    }
+ #table {
+       
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        text-align: center;
+        font-weight: bold;
+        font-style: oblique;
+    }
+    .ml9 {
+    
+        text-align: center;
+       
+        margin-top: 20%;
+        color: rgb(0, 0, 0);
+    }
+    .ml9 .text-wrapper {
+        position: relative;
+        display: inline-block;
+        padding-top: 0.2em;
+        padding-right: 0.05em;
+        padding-bottom: 0.1em;
+        overflow: hidden;
+    }
+    
+    .ml9 .letter {
+        transform-origin: 50% 100%;
+        display: inline-block;
+        line-height: 1em;
+    }
+    
+    #nav{
+        height: 100px;
+    }
+    
+    #wrap{
+       
+        height: 70px;
+        
+        
+    }
+    
+    /* .nav-pills .pill-1 .nav-link:not(.active) {
+        background-color:dodgerblue;
+        height: 55px;
+        color: white;
+    }  */
+    
+    .nav-pills .pill-2 .nav-link:not(.active) {
+        background-color:#e75480;
+        height: 55px;
+        color: white;
+    }
+    
+    .nav-pills .pill-3 .nav-link:not(.active) {
+        background-color:dodgerblue;
+        height: 55px;
+        color: white;
+    }
+    
+    
+    
+    /* .nav-pills .pill-2 .nav-link {
+        background-color: rgba(0, 250, 0, 0.2);
+    }
+    
+    .nav-pills .pill-3 .nav-link {
+        background-color: rgba(0, 0, 250, 0.2);
+        color: white;
+    } */
